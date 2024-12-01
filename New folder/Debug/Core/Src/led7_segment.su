@@ -1,0 +1,3 @@
+led7_segment.c:16:6:turnSeg0	16	static
+led7_segment.c:27:6:turnSeg1	16	static
+led7_segment.c:38:6:enableSeg	16	static

@@ -90,8 +90,8 @@ void Error_Handler(void);
 #define ADD_GPIO_Port GPIOA
 #define CON_Pin GPIO_PIN_9
 #define CON_GPIO_Port GPIOA
-#define RE_Pin GPIO_PIN_10
-#define RE_GPIO_Port GPIOA
+#define SUB_Pin GPIO_PIN_10
+#define SUB_GPIO_Port GPIOA
 #define EN1_Pin GPIO_PIN_11
 #define EN1_GPIO_Port GPIOA
 #define EN2_Pin GPIO_PIN_12
